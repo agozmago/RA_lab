@@ -1,0 +1,12 @@
+# values for revolution (motion arround the Sun) and rotation (motion about its own axis) correspond to [1 year IN PROGRAM = 1 minute IRL]
+orbit_scale,size_scale,revolution_step,rotation_step,curr_rev,curr_rot,rot_axX,rot_axY,rot_axZ,tiltX,tiltY,tiltZ
+sky,     0.0,   1000, 0.0,   0.0,  0.0, 0.0, 0, 1, 0, 1, 0, 0
+sun,     0.0,   2.0,  0.0,   2.7,  0.0, 0.0, 0, 1, 0, 1, 0, 0
+mercury, 2.8,   0.1,  0.83,  1.2,  0.0, 0.0, 0, 1, 0, 1, 0, 0
+venus,   5.0,   0.2,  0.32,  -0.3, 0.0, 0.0, 0, 1, 0, 1, 0, 0
+earth,   7.0,   0.2,  0.2,   73,   0.0, 0.0, 0, 1, 0, 1, 0, 0
+mars,    10.6,  0.1,  0.11,  71,   0.0, 0.0, 0, 1, 0, 1, 0, 0
+jupiter, 36.4,  1.0,  0.02,  178,  0.0, 0.0, 0, 1, 0, 1, 0, 0
+saturn,  66.8,  0.8,  0.007, 162,  0.0, 0.0, 0, 1, 0, 1, 0, 0
+uranus,  134.4, 0.6,  0.002, 101,  0.0, 0.0, 1, 0, 0, 0, 1, 0
+neptune, 210.4, 0.4,  0.001, 109,  0.0, 0.0, 0, 1, 0, 1, 0, 0
